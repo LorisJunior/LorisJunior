@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorisJunior)](https://github.com/anuraghazra/github-readme-stats)
 
-### Technologies i use in my day
+### Technologies I use in my day
 
 <div style="display inline_block"><br/>
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
